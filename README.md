@@ -8,3 +8,4 @@ Streaming albums under artist name "jon feldman"
 
 yonifeldman.bandcamp.com
 
+hamidbar medaber by zebrina is available on tzadik.com
