@@ -6,6 +6,8 @@ There are 4 albums on Spotify / Apple Music and 3 albums on BandCamp.
 
 Streaming albums under artist name "jon feldman"
 
+Streaming album by Zebrina under "zebrina"
+
 yonifeldman.bandcamp.com
 
 hamidbar medaber by zebrina is available on tzadik.com
